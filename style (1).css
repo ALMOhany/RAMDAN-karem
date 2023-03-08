@@ -1,0 +1,50 @@
+body{
+  background: honeydew
+}
+
+.foot{
+  background: honeydew; 
+  text-align: center; 
+  width: 100%; 
+  height: 100px; 
+  size: 40px; 
+}
+.video{
+  width: 100%; 
+}
+nav{
+  width: 100%; 
+  text-align: right; 
+  height: 25%; 
+}
+a{
+  background: honeydew; 
+  border: 10px solid honeydew; 
+}
+div h2{
+  text-align: center; 
+}
+h3{
+  text-align: right; 
+}
+.titl{
+  text-align: right; 
+}
+h3{
+  text-align: center; 
+}
+.m{
+  border: 5px solid greenyellow; 
+  height: 500px; 
+  width: 100%; 
+  background: chocolate; 
+  text-align: center; 
+  color: white; 
+  background-image: url("teet.jpeg"); 
+  background-size: cover; 
+  background-position: center center; 
+}
+.fg{
+  width: 100%; 
+  height: 100%; 
+}
